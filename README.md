@@ -1,6 +1,6 @@
 <div align="center">
-  <h1 align="center">Hi there, I'm Priyanka Priyadarshini Dalai 👋</h1>
-  <h3 align="center">🤖 AI/ML • 🐍 Python • 🧠 GenAI • ⚡ RAG</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a18cd1,100:fbc2eb&height=250&section=header&text=Priyanka%20Dalai&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=AI/ML%20%E2%80%A2%20Python%20%E2%80%A2%20GenAI%20%E2%80%A2%20RAG&descAlignY=72&descSize=22" alt="Priyanka Dalai" width="100%" />
+  <br>
   <br>
   <i><b>« Build → Learn → Experiment → Evolve 🚀 »</b></i>
 </div>
@@ -18,23 +18,31 @@ I am a passionate developer focused on Artificial Intelligence and Machine Learn
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
-### Languages & Core
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
-![Databases](https://img.shields.io/badge/Databases-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<div align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="8" width="100%">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />&nbsp;
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />&nbsp;
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />&nbsp;
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />&nbsp;
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />&nbsp;
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />&nbsp;
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />&nbsp;
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  </marquee>
+  
+  <br>
 
-### AI / Machine Learning
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  <marquee behavior="scroll" direction="right" scrollamount="8" width="100%">
+    <img src="https://img.shields.io/badge/Machine_Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Machine Learning" />&nbsp;
+    <img src="https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />&nbsp;
+    <img src="https://img.shields.io/badge/RAG-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="RAG" />&nbsp;
+    <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" alt="DSA" />&nbsp;
+    <img src="https://img.shields.io/badge/Databases-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Databases" />
+  </marquee>
+</div>
 
 ---
 
@@ -70,23 +78,12 @@ I am a passionate developer focused on Artificial Intelligence and Machine Learn
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <!-- Replace 'YOUR_GITHUB_USERNAME' with your actual GitHub username -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radium&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
-  <!-- Replace the '#' with your actual links -->
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/priyanka-priyadarshini-dalai-7b8699377/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/priyankapriyadarshinidalai67-wq"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
 
 <br>
