@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a18cd1,100:fbc2eb&height=250&section=header&text=Priyanka%20Dalai&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=AI/ML%20%E2%80%A2%20Python%20%E2%80%A2%20GenAI%20%E2%80%A2%20RAG&descAlignY=72&descSize=22" alt="Priyanka Dalai" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a18cd1,100:fbc2eb&height=250&section=header&text=Priyanka%20Priyadarshini%20Dalai&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=AI/ML%20%E2%80%A2%20Python%20%E2%80%A2%20GenAI%20%E2%80%A2%20RAG&descAlignY=72&descSize=22" alt="Priyanka Priyadarshini Dalai" width="100%" />
   <br>
   <br>
   <i><b>« Build → Learn → Experiment → Evolve 🚀 »</b></i>
